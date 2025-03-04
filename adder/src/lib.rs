@@ -6,6 +6,10 @@ pub fn greet(name: &str)-> String{
     format!("Hello {}", name)
 }
 
+pub fn add_two(a: i32) -> i32{
+    a + 2
+}
+
 #[derive(Debug)]
 struct Rectangle{
     width: u32,
@@ -43,7 +47,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn it_works() {
+    fn it_workss() {
         let result = add(2, 2);
         assert_eq!(result, 4);
     }
@@ -52,6 +56,11 @@ mod tests {
     fn it_works() {
         let result = add(2, 2);
         assert_ne!(result, 5);
+    }
+
+    #[test]
+    fn add_two_test(){
+        assert_eq!(4, add_two(2));
     }
     #[test]
     fn test_can_hold_smaller(){
@@ -87,7 +96,8 @@ mod tests {
     }
 
     #[test]
-    fn it_works()-> Result<(),String>{
+    #[ignore]
+    fn it_work()-> Result<(),String>{
         if 2+2==4{
             Ok(())
         }else{
@@ -95,3 +105,9 @@ mod tests {
         }
     }
 }
+
+// cargo test -- -test-threads=1 // to run tests in parallel
+// cargo test -- --show-output // to show output of tests
+//cargo test [test_name] // to run specific test and partial name also works
+//cargo test [mod_name::] // to run specific module tests
+//cargo test -- --ignored // to run ignored tests
