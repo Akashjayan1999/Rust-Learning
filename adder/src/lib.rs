@@ -106,7 +106,7 @@ mod tests {
     }
 }
 
-// cargo test -- -test-threads=1 // to run tests in parallel
+// cargo test -- --test-threads=1 // to run tests in parallel
 // cargo test -- --show-output // to show output of tests
 //cargo test [test_name] // to run specific test and partial name also works
 //cargo test [mod_name::] // to run specific module tests

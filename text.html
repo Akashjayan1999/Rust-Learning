@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        #just-line-break {
+            white-space: pre-line;
+        }
+    </style>
+    <div id="just-line-break"></div>
+    <script>
+        const text = 'Testing 1\nTesting 2\n\tNo tab';
+        document.getElementById('just-line-break').textContent = text;
+    </script>
+</body>
+</html>

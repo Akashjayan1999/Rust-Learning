@@ -11,6 +11,7 @@ mod front_of_house;
 // use front_of_house::hosting;
 // use crate::front_of_house::hosting;
 pub use self::front_of_house::hosting; // ew can use add_to_waitlist directly
+//pub use crate::front_of_house::hosting; //same as above
 
 pub fn eat_at_restaurant() {
     // Absolute path
