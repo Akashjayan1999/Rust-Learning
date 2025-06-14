@@ -1,0 +1,1 @@
+searchState.loadedDescShard("art", 0, "art\nThe primary colors according to the RYB color modal.\nThe secondary colors according to the RYB color modal.\nReturns the argument unchanged.\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.\nCalls <code>U::from(self)</code>.\nCombines two primary colors in equal amounts to create a …")

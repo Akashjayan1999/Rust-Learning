@@ -1,0 +1,1 @@
+D:\OneDrive\ -\ Sequantix\ Pvt.\ Ltd\Learning\Rust_learning\my_crate\target\debug\my_crate.exe: D:\OneDrive\ -\ Sequantix\ Pvt.\ Ltd\Learning\Rust_learning\my_crate\src\lib.rs D:\OneDrive\ -\ Sequantix\ Pvt.\ Ltd\Learning\Rust_learning\my_crate\src\main.rs
