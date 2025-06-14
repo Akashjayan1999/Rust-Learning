@@ -1,0 +1,1 @@
+D:\OneDrive\ -\ Sequantix\ Pvt.\ Ltd\Learning\Rust_learning\art\target\package\akash_art-0.1.0\target\debug\libakash_art.rlib: D:\OneDrive\ -\ Sequantix\ Pvt.\ Ltd\Learning\Rust_learning\art\target\package\akash_art-0.1.0\src\lib.rs

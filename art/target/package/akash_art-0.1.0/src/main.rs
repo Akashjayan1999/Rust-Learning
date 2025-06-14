@@ -1,5 +1,5 @@
-use art::{PrimaryColor, SecondaryColor};
-use art::mix;
+use akash_art::{PrimaryColor, SecondaryColor};
+use akash_art::mix;
 
 fn main() {
     let red = PrimaryColor::Red;
