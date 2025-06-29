@@ -25,7 +25,7 @@ fn main() {
                 option: vec!["Option 1".to_string(),"Option 2".to_string()],
             }),
         ],
-    }
+    };
 
     screen.run();
 }
