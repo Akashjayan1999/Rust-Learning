@@ -1,4 +1,6 @@
+mod matching_literals;
 fn main() {
+    matching_literals::main();
     #[derive(Debug)]
     enum Language{
         English,
@@ -53,12 +55,12 @@ fn main() {
     let x=5;
 
     // Refutable pattern
-    let x:Option<&str =None;
-    if let some(x)=x{
+    let x:Option<&str> =None;
+    if let Some(x)=x{
         println!("{}",x);
     }
 
-    let x:Options<&str>=None;
+    let x:Option<&str>=None;
     // let Some(x)=x; through error because x is not refutable
 
     // if let x=5{ // always true

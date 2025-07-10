@@ -1,0 +1,36 @@
+2025-07-10T03:39:12.935Z INFO  [rustowlc::core] start borrowck of DefId(0:8 ~ state_pattern[cc3f]::{impl#0}::new)
+2025-07-10T03:39:12.938Z INFO  [rustowlc::core::analyze] facts of DefId(0:8 ~ state_pattern[cc3f]::{impl#0}::new) prepared; start analyze of DefId(0:8 ~ state_pattern[cc3f]::{impl#0}::new)
+2025-07-10T03:39:12.939Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.939Z INFO  [rustowlc::core] borrow checked: 1 / 6
+2025-07-10T03:39:12.940Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.941Z INFO  [rustowlc::core] start borrowck of DefId(0:9 ~ state_pattern[cc3f]::{impl#0}::content)
+2025-07-10T03:39:12.942Z INFO  [rustowlc::core::analyze] facts of DefId(0:9 ~ state_pattern[cc3f]::{impl#0}::content) prepared; start analyze of DefId(0:9 ~ state_pattern[cc3f]::{impl#0}::content)
+2025-07-10T03:39:12.942Z INFO  [rustowlc::core] borrow checked: 2 / 6
+2025-07-10T03:39:12.942Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.942Z INFO  [rustowlc::core] start borrowck of DefId(0:11 ~ state_pattern[cc3f]::{impl#1}::add_text)
+2025-07-10T03:39:12.943Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.944Z INFO  [rustowlc::core::analyze] facts of DefId(0:11 ~ state_pattern[cc3f]::{impl#1}::add_text) prepared; start analyze of DefId(0:11 ~ state_pattern[cc3f]::{impl#1}::add_text)
+2025-07-10T03:39:12.944Z INFO  [rustowlc::core] borrow checked: 3 / 6
+2025-07-10T03:39:12.944Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.945Z INFO  [rustowlc::core] start borrowck of DefId(0:12 ~ state_pattern[cc3f]::{impl#1}::request_review)
+2025-07-10T03:39:12.946Z INFO  [rustowlc::core::analyze] facts of DefId(0:12 ~ state_pattern[cc3f]::{impl#1}::request_review) prepared; start analyze of DefId(0:12 ~ state_pattern[cc3f]::{impl#1}::request_review)
+2025-07-10T03:39:12.946Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.946Z INFO  [rustowlc::core] borrow checked: 4 / 6
+2025-07-10T03:39:12.946Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.946Z INFO  [rustowlc::core] start borrowck of DefId(0:16 ~ state_pattern[cc3f]::{impl#2}::approve)
+2025-07-10T03:39:12.946Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.947Z INFO  [rustowlc::core::analyze] facts of DefId(0:16 ~ state_pattern[cc3f]::{impl#2}::approve) prepared; start analyze of DefId(0:16 ~ state_pattern[cc3f]::{impl#2}::approve)
+2025-07-10T03:39:12.948Z INFO  [rustowlc::core] borrow checked: 5 / 6
+2025-07-10T03:39:12.948Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.948Z INFO  [rustowlc::core] start borrowck of DefId(0:17 ~ state_pattern[cc3f]::main)
+2025-07-10T03:39:12.949Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.949Z INFO  [rustowlc::core::analyze] facts of DefId(0:17 ~ state_pattern[cc3f]::main) prepared; start analyze of DefId(0:17 ~ state_pattern[cc3f]::main)
+2025-07-10T03:39:12.950Z INFO  [rustowlc::core] borrow checked: 6 / 6
+2025-07-10T03:39:12.950Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.950Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.963Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\lib.rs
+2025-07-10T03:39:12.964Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\lib.rs
+2025-07-10T03:39:12.966Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\lib.rs
+2025-07-10T03:39:12.967Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\lib.rs
+2025-07-10T03:39:12.969Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\lib.rs
+2025-07-10T03:39:12.970Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\lib.rs

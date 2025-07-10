@@ -1,0 +1,18 @@
+2025-07-10T03:39:12.315Z INFO  [rustowlc::core] start borrowck of DefId(0:8 ~ traits_objects_gui[1740]::{impl#0}::run)
+2025-07-10T03:39:12.320Z INFO  [rustowlc::core::analyze] facts of DefId(0:8 ~ traits_objects_gui[1740]::{impl#0}::run) prepared; start analyze of DefId(0:8 ~ traits_objects_gui[1740]::{impl#0}::run)
+2025-07-10T03:39:12.321Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.321Z INFO  [rustowlc::core] borrow checked: 1 / 3
+2025-07-10T03:39:12.322Z INFO  [rustowlc::core] start borrowck of DefId(0:14 ~ traits_objects_gui[1740]::{impl#1}::draw)
+2025-07-10T03:39:12.323Z INFO  [rustowlc::core::analyze] facts of DefId(0:14 ~ traits_objects_gui[1740]::{impl#1}::draw) prepared; start analyze of DefId(0:14 ~ traits_objects_gui[1740]::{impl#1}::draw)
+2025-07-10T03:39:12.323Z INFO  [rustowlc::core] borrow checked: 2 / 3
+2025-07-10T03:39:12.323Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.323Z INFO  [rustowlc::core] start borrowck of DefId(0:15 ~ traits_objects_gui[1740]::main)
+2025-07-10T03:39:12.324Z INFO  [rustowlc::core::analyze] facts of DefId(0:15 ~ traits_objects_gui[1740]::main) prepared; start analyze of DefId(0:15 ~ traits_objects_gui[1740]::main)
+2025-07-10T03:39:12.324Z INFO  [rustowlc::core] borrow checked: 3 / 3
+2025-07-10T03:39:12.324Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-10T03:39:12.325Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.325Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.327Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-10T03:39:12.333Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\traits_objects_gui\src\lib.rs
+2025-07-10T03:39:12.334Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\traits_objects_gui\src\lib.rs
+2025-07-10T03:39:12.334Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\traits_objects_gui\src\lib.rs
