@@ -1,6 +1,6 @@
-2025-07-10T03:39:14.241Z INFO  [rustowlc::core] start borrowck of DefId(0:4 ~ macros[4e83]::main)
-2025-07-10T03:39:14.250Z INFO  [rustowlc::core::analyze] facts of DefId(0:4 ~ macros[4e83]::main) prepared; start analyze of DefId(0:4 ~ macros[4e83]::main)
-2025-07-10T03:39:14.255Z INFO  [rustowlc::core] borrow checked: 1 / 1
-2025-07-10T03:39:14.259Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
-2025-07-10T03:39:14.266Z INFO  [rustowlc::core::analyze] borrow check finished
-2025-07-10T03:39:14.288Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\macros\src\lib.rs
+2025-07-16T05:53:57.895Z INFO  [rustowlc::core] start borrowck of DefId(0:4 ~ macros[4e83]::main)
+2025-07-16T05:53:57.902Z INFO  [rustowlc::core::analyze] facts of DefId(0:4 ~ macros[4e83]::main) prepared; start analyze of DefId(0:4 ~ macros[4e83]::main)
+2025-07-16T05:53:57.904Z INFO  [rustowlc::core] borrow checked: 1 / 1
+2025-07-16T05:53:57.905Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-16T05:53:57.913Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-16T05:53:57.942Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\macros\src\lib.rs

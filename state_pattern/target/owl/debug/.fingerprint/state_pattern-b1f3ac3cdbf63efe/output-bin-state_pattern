@@ -1,6 +1,6 @@
-2025-07-10T03:39:13.121Z INFO  [rustowlc::core] start borrowck of DefId(0:4 ~ state_pattern[05be]::main)
-2025-07-10T03:39:13.132Z INFO  [rustowlc::core::analyze] facts of DefId(0:4 ~ state_pattern[05be]::main) prepared; start analyze of DefId(0:4 ~ state_pattern[05be]::main)
-2025-07-10T03:39:13.133Z INFO  [rustowlc::core] borrow checked: 1 / 1
-2025-07-10T03:39:13.133Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
-2025-07-10T03:39:13.143Z INFO  [rustowlc::core::analyze] borrow check finished
-2025-07-10T03:39:13.157Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\main.rs
+2025-07-16T05:54:02.125Z INFO  [rustowlc::core] start borrowck of DefId(0:4 ~ state_pattern[05be]::main)
+2025-07-16T05:54:02.160Z INFO  [rustowlc::core::analyze] facts of DefId(0:4 ~ state_pattern[05be]::main) prepared; start analyze of DefId(0:4 ~ state_pattern[05be]::main)
+2025-07-16T05:54:02.161Z INFO  [rustowlc::core] borrow checked: 1 / 1
+2025-07-16T05:54:02.199Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-16T05:54:02.290Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-16T05:54:02.311Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\state_pattern\src\main.rs

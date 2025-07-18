@@ -1,0 +1,30 @@
+2025-07-18T04:44:17.217Z INFO  [rustowlc::core] start borrowck of DefId(0:19 ~ web_server[52a0]::{impl#0}::new)
+2025-07-18T04:44:17.232Z INFO  [rustowlc::core::analyze] facts of DefId(0:19 ~ web_server[52a0]::{impl#0}::new) prepared; start analyze of DefId(0:19 ~ web_server[52a0]::{impl#0}::new)
+2025-07-18T04:44:17.234Z INFO  [rustowlc::core] borrow checked: 1 / 5
+2025-07-18T04:44:17.234Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-18T04:44:17.235Z INFO  [rustowlc::core] start borrowck of DefId(0:20 ~ web_server[52a0]::{impl#0}::execute)
+2025-07-18T04:44:17.240Z INFO  [rustowlc::core::analyze] facts of DefId(0:20 ~ web_server[52a0]::{impl#0}::execute) prepared; start analyze of DefId(0:20 ~ web_server[52a0]::{impl#0}::execute)
+2025-07-18T04:44:17.241Z INFO  [rustowlc::core] borrow checked: 2 / 5
+2025-07-18T04:44:17.241Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-18T04:44:17.244Z INFO  [rustowlc::core] start borrowck of DefId(0:23 ~ web_server[52a0]::{impl#1}::drop)
+2025-07-18T04:44:17.244Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-18T04:44:17.258Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-18T04:44:17.266Z INFO  [rustowlc::core::analyze] facts of DefId(0:23 ~ web_server[52a0]::{impl#1}::drop) prepared; start analyze of DefId(0:23 ~ web_server[52a0]::{impl#1}::drop)
+2025-07-18T04:44:17.267Z INFO  [rustowlc::core] borrow checked: 3 / 5
+2025-07-18T04:44:17.267Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-18T04:44:17.268Z INFO  [rustowlc::core] start borrowck of DefId(0:28 ~ web_server[52a0]::{impl#2}::new)
+2025-07-18T04:44:17.268Z INFO  [rustowlc::core] start borrowck of DefId(0:29 ~ web_server[52a0]::{impl#2}::new::{closure#0})
+2025-07-18T04:44:17.284Z INFO  [rustowlc::core::analyze] facts of DefId(0:29 ~ web_server[52a0]::{impl#2}::new::{closure#0}) prepared; start analyze of DefId(0:29 ~ web_server[52a0]::{impl#2}::new::{closure#0})
+2025-07-18T04:44:17.286Z INFO  [rustowlc::core] borrow checked: 4 / 5
+2025-07-18T04:44:17.286Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-18T04:44:17.289Z INFO  [rustowlc::core::analyze] facts of DefId(0:28 ~ web_server[52a0]::{impl#2}::new) prepared; start analyze of DefId(0:28 ~ web_server[52a0]::{impl#2}::new)
+2025-07-18T04:44:17.289Z INFO  [rustowlc::core] borrow checked: 5 / 5
+2025-07-18T04:44:17.290Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-18T04:44:17.291Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-18T04:44:17.310Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\web_server\src\lib.rs
+2025-07-18T04:44:17.311Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-18T04:44:17.319Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-18T04:44:17.336Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\web_server\src\lib.rs
+2025-07-18T04:44:17.339Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\web_server\src\lib.rs
+2025-07-18T04:44:17.369Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\web_server\src\lib.rs
+2025-07-18T04:44:17.422Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\web_server\src\lib.rs

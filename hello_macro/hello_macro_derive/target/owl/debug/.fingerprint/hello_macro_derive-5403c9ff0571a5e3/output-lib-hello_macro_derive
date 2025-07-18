@@ -1,0 +1,24 @@
+2025-07-16T05:54:05.167Z INFO  [rustowlc::core] start borrowck of DefId(0:9 ~ hello_macro_derive[e522]::_)
+2025-07-16T05:54:05.171Z INFO  [rustowlc::core::analyze] facts of DefId(0:9 ~ hello_macro_derive[e522]::_) prepared; start analyze of DefId(0:9 ~ hello_macro_derive[e522]::_)
+2025-07-16T05:54:05.172Z INFO  [rustowlc::core] borrow checked: 1 / 4
+2025-07-16T05:54:05.176Z INFO  [rustowlc::core] start borrowck of DefId(0:11 ~ hello_macro_derive[e522]::_::_DECLS)
+2025-07-16T05:54:05.177Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-16T05:54:05.177Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-16T05:54:05.188Z INFO  [rustowlc::core::analyze] facts of DefId(0:11 ~ hello_macro_derive[e522]::_::_DECLS) prepared; start analyze of DefId(0:11 ~ hello_macro_derive[e522]::_::_DECLS)
+2025-07-16T05:54:05.188Z INFO  [rustowlc::core] borrow checked: 2 / 4
+2025-07-16T05:54:05.188Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-16T05:54:05.189Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-16T05:54:05.202Z INFO  [rustowlc::core] start borrowck of DefId(0:7 ~ hello_macro_derive[e522]::hello_macro_derive)
+2025-07-16T05:54:05.219Z INFO  [rustowlc::core::analyze] facts of DefId(0:7 ~ hello_macro_derive[e522]::hello_macro_derive) prepared; start analyze of DefId(0:7 ~ hello_macro_derive[e522]::hello_macro_derive)
+2025-07-16T05:54:05.219Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-16T05:54:05.219Z INFO  [rustowlc::core] borrow checked: 3 / 4
+2025-07-16T05:54:05.221Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-16T05:54:05.222Z INFO  [rustowlc::core] start borrowck of DefId(0:8 ~ hello_macro_derive[e522]::impl_hello_macro)
+2025-07-16T05:54:05.360Z INFO  [rustowlc::core::analyze] facts of DefId(0:8 ~ hello_macro_derive[e522]::impl_hello_macro) prepared; start analyze of DefId(0:8 ~ hello_macro_derive[e522]::impl_hello_macro)
+2025-07-16T05:54:05.393Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-16T05:54:05.393Z INFO  [rustowlc::core] borrow checked: 4 / 4
+2025-07-16T05:54:05.394Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\hello_macro\hello_macro_derive\src\lib.rs
+2025-07-16T05:54:05.409Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\hello_macro\hello_macro_derive\src\lib.rs
+2025-07-16T05:54:05.410Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\hello_macro\hello_macro_derive\src\lib.rs
+2025-07-16T05:54:05.562Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-16T05:54:05.637Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\hello_macro\hello_macro_derive\src\lib.rs

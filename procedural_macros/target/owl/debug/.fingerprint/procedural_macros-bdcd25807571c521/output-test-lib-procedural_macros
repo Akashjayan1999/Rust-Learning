@@ -1,0 +1,6 @@
+2025-07-16T05:54:00.723Z INFO  [rustowlc::core] start borrowck of DefId(0:3 ~ procedural_macros[8647]::main)
+2025-07-16T05:54:00.730Z INFO  [rustowlc::core::analyze] facts of DefId(0:3 ~ procedural_macros[8647]::main) prepared; start analyze of DefId(0:3 ~ procedural_macros[8647]::main)
+2025-07-16T05:54:00.730Z INFO  [rustowlc::core] borrow checked: 1 / 1
+2025-07-16T05:54:00.732Z INFO  [rustowlc::core::analyze] start re-computing borrow check with dump: true
+2025-07-16T05:54:00.736Z INFO  [rustowlc::core::analyze] borrow check finished
+2025-07-16T05:54:00.756Z INFO  [rustowlc::core] analyzed one item of d:\OneDrive - Sequantix Pvt. Ltd\Learning\Rust_learning\procedural_macros\src\lib.rs
